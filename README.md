@@ -5,10 +5,10 @@ Portfolio of my work and project for CEP146-NDD
 Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: Pham Thuy Nhat Quyen
+- Program: CPP
+- Year: Year 1 - 1st Semester
+- Favorite Programming Language: I do not know yet
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
