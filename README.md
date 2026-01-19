@@ -2,7 +2,7 @@
 Portfolio of my work and project for CEP146-NDD
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CPP!
  
 ## About Me
 - Name: Pham Thuy Nhat Quyen
